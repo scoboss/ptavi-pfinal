@@ -1,0 +1,6 @@
+<?xml version = "1" encoding = "UTF-8"?>
+< config >
+    < server name = "ProProxy" ip = "127.0.0.1" puerto = "1221"/>
+    < database path = "users.txt" passwdpath = "password.txt"/>
+    < log path = "pr_log.txt"/>
+</config >
